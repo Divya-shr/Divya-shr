@@ -201,11 +201,32 @@
 
 ---
 
-## 📈 Contribution Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divya-shr&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=A78BFA&point=ffffff" width="100%" alt="Contribution Graph"/>
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🛠️</h3>
+      <b>Consistent Contributor</b>
+      <br/>
+      <sub>Regular commits across AI/ML, web, and full-stack projects</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🌱</h3>
+      <b>Continuous Learner</b>
+      <br/>
+      <sub>Actively exploring new frameworks, tools, and GenAI workflows</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🤝</h3>
+      <b>Open to Collaborate</b>
+      <br/>
+      <sub>Interested in AI-driven products and full-stack builds</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
