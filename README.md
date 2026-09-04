@@ -285,17 +285,14 @@
 
 ---
 
-## 📈 Contribution Activity\n\n<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divya-shr&theme=tokyo-night&bg_color=1A1B26&color=A78BFA&line=A78BFA&point=A78BFA&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+## 📈 Contribution Activity (3D Isometric View)
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Divya-shr&theme=radical" width="100%" alt="3D Contribution Graph" />
 </p>
 
 ---
 
-## 💭 Words of Inspiration
-
-> *"The best way to predict the future is to invent it."* — **Alan Kay**
-
----
 
 ## ⚡ Current Status
 
