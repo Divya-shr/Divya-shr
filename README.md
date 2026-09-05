@@ -28,7 +28,7 @@
       </a>
     </td>
     <td align="center" width="90">
-      <a href="mailto:sridivya1912@gmail.com" target="_blank">
+      <a href="sridivya1912@gmail.com" target="_blank">
         <img src="https://cdn.simpleicons.org/gmail/A78BFA" width="55" height="55" alt="Email" /><br />
         <sub><b>Email</b></sub>
       </a>
@@ -58,7 +58,7 @@
       </a>
     </td>
     <td align="center" width="90">
-      <a href="#" target="_blank">
+      <a href="https://github.com/Divya-shr/Divya-shr/blob/main/Konni%20Divya%20Resume.pdf" target="_blank">
         <img src="https://cdn.simpleicons.org/googledocs/A78BFA" width="55" height="55" alt="Resume" /><br />
         <sub><b>Resume</b></sub>
       </a>
