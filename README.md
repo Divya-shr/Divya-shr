@@ -86,8 +86,8 @@
       <sub><b>Claude</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/groq/A78BFA" width="55" height="55" alt="Groq" /><br />
-      <sub><b>Groq</b></sub>
+      <img src="https://cdn.simpleicons.org/grok/A78BFA" width="55" height="55" alt="Grok" /><br />
+      <sub><b>Grok</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/ollama/A78BFA" width="55" height="55" alt="Ollama" /><br />
